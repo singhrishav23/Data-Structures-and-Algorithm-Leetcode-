@@ -9,8 +9,8 @@ Building strong DSA fundamentals and problem-solving skills through consistent D
 
 🔹 A collection of consistent practice, learning, and progress.
 
-🌟 Open to Learning
+## 🌟 Open to Learning
 
-This repository reflects my current understanding of DSA and problem solving. If you spot something that can be improved, feel free to share your insights.
+This repository reflects my ongoing journey in Data Structures and Algorithms. If you come across a better approach, optimization, or improvement, feel free to share your insights.
 
 ---
