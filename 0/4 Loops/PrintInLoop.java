@@ -1,0 +1,18 @@
+//2
+
+package Loops;
+
+public class PrintInLoop {
+
+    public static void main(String[] args) {
+
+        int counter = 1;
+
+        while (counter <= 10) {
+            System.out.println(counter);
+            counter++ ;
+        }
+        
+    }
+    
+}

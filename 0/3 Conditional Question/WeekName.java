@@ -1,0 +1,45 @@
+//3
+//Using Switch
+
+import java.util.Scanner;
+
+import javax.sound.midi.Soundbank;
+
+public class WeekName {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        int WeekNum = sc.nextInt();
+
+        switch (WeekNum) {
+            case 1: System.out.println("Monday");
+                
+                break;
+            case 2: System.out.println("Tuesday");
+                
+                break;
+            case 3: System.out.println("wednesday");
+                
+                break;
+            case 4: System.out.println("Thursday");
+                
+                break;
+            case 5: System.out.println("Friday");
+                
+                break;
+            case 6: System.out.println("Saturday");
+                
+                break;
+            case 7: System.out.println("Sunday");
+                
+                break;
+        
+            default: System.out.println("Earth pr 7 din hi hote hai");
+                break;
+        }
+        
+    }
+    
+}
