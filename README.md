@@ -1,4 +1,4 @@
-# Logic Building in JAVA for DATA STRUCTURES AND ALGORITHMS
+# Logic Building in JAVA for DATA STRUCTURES AND ALGORITHMS 
 Building strong DSA fundamentals and problem-solving skills through consistent Data Structures and Algorithm practice in Java.
 
 ## 📌 About This Repository
